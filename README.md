@@ -13,7 +13,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://GitHub.com/ShuBhamg0sain/phone-number-tracker
+git clone https://github.com/mallumoder/mobile-number-tracker-for-india
 
 cd phone-number-tracker
 
